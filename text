@@ -63,6 +63,14 @@
                 sessionStorage.setItem('user', result.user);
             sessionStorage.setItem('email', result.email); sessionStorage.setItem('user_id', result.user_id);
                                 sessionStorage.setItem('phone', result.phone);
+                                
+                                
+                                
+                                if (password && username === status.200){
+                                window.location.assign(admin.html);
+                                }
+                                else{ wrong crendentials
+                                }
 
      
                                    
