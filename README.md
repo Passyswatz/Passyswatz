@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ogpaschal on twitter 
 - 👀 B.ed in computer science  ...
-- 🌱 I’m currently learning JavaScript and react ...
+- 🌱 I’m a Javacsript developer
 ☺️I have a passion for web development and 
 Love to create websites for web and mobile.
 My goal is to focus on the message you want to send 
