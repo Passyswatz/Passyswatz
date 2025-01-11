@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ogpaschal on twitter 
-- 👀 B.ed in computer science  ...
+- 👀 B.sc in computer science education ...
 - 🌱 I’m a Javacsript developer
 ☺️I have a passion for web development and 
 Love to create websites for web and mobile.
@@ -10,7 +10,7 @@ On delivering good works to clients....
 - 📫 How to reach me
 Twitter @Ogpaschal
 
-Facebook @ Paschal Og...
+
 
 <!---
 Passyswatz/Passyswatz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
