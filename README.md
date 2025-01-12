@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @Ogpaschal on twitter 
-- 👀 B.sc in computer science education ...
-- 🌱 I’m a Javacsript developer
-☺️I have a passion for web development and 
-Love to create websites for web and mobile.
-My goal is to focus on the message you want to send 
-In a simple and interactive way.I know how to create your website with the latest technologies available.
-- 💞️ I’m looking to collaborate with tech companies 
-On delivering good works to clients....
-- 📫 How to reach me
-Twitter @Ogpaschal
+👋 Hi, I’m Paschal Ogbu, a passionate JavaScript Developer with a B.Sc. in Computer Science Education.
+🌱 I specialize in web development, creating engaging websites for web and mobile platforms using modern technologies like React.js, Next.js, Redux, and Tailwind CSS.
+💻 My skills include working with RESTful APIs, UI/UX design using Figma, and testing frameworks like Jest.
+🚀 I’m dedicated to delivering high-quality solutions and collaborating with tech companies to bring value to clients.
+💞️ I’m open to exciting collaboration opportunities with tech companies.
+📫 How to reach me: Twitter: @Ogpaschal | LinkedIn: Paschal Ogbu | GitHub: @Passyswatz
 
 
 
